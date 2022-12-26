@@ -11,4 +11,4 @@
 6. [Bài tập kiểm tra 2 số thực xem có cùng dấu không](https://www.jdoodle.com/embed/v0/5ENi)
 7. [Bài tập giải và biện luận phương trình bậc nhất ax + b = 0](https://www.jdoodle.com/a/5ENU)
 8. [Bài tập cho biết tháng mấy thuộc quí trong năm](https://www.jdoodle.com/embed/v0/5FTO)
-9. [Bài tập cấu trúc vòng lặp for/while, do/while)(https://www.jdoodle.com/embed/v0/5FUb)
+9. [Bài tập cấu trúc vòng lặp for/while, do/while](https://www.jdoodle.com/embed/v0/5FUb)
