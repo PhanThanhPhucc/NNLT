@@ -10,3 +10,4 @@
 5. [Bài tập cấu trúc điều kiện if, swich](jdoodle.com/a/5EN7)
 6. [Bài tập kiểm tra 2 số thực xem có cùng dấu không](jdoodle.com/a/5ENi)
 7. [Bài tập giải và biện luận phương trình bậc nhất ax + b = 0](https://www.jdoodle.com/a/5ENU)
+8. [Bài tập cho biết tháng mấy thuộc quí trong năm](jdoodle.com/a/5FTO)
