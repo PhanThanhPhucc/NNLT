@@ -9,7 +9,7 @@
 4. [Bài tập giảm giá 20/11](https://www.jdoodle.com/embed/v0/5wsM)
 
 ## Cấu trúc điều kiện (if, switch)
-1. [Viết chương trình tìm số lớn nhất và nhỏ nhất trong 3 số thực a, b, c.](https://www.jdoodle.com/embed/v0/5FU4)
+1. [Viết chương trình tìm số lớn nhất và nhỏ nhất trong 3 số thực a, b, c.](https://www.jdoodle.com/a/5FU4)
 2. [Bài tập kiểm tra 2 số thực xem có cùng dấu không](https://www.jdoodle.com/a/5ENi)
 3. [Bài tập giải và biện luận phương trình bậc nhất ax + b = 0](https://www.jdoodle.com/a/5ENUU)
 4. [Bài tập cho biết tháng mấy thuộc quí trong năm](https://www.jdoodle.com/a/5FTO)
