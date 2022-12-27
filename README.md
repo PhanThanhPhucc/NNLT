@@ -16,6 +16,6 @@
 
 ## Cấu trúc lặp (for, while, do/while)
 
-11. [Viết chương trình tính tổng S = 13 + 23 + 33 +...+ N3](jdoodle.com/a/5FUb)
-12. [BT tìm số nguyên dương nhỏ nhất sao cho S = 1 + 2 +...+ n > 10000](jdoodle.com/a/5FUj)
-13. [BT hiển thị các ký tự in từ A đến Z](jdoodle.com/a/5FUs)
+11. [Viết chương trình tính tổng S = 13 + 23 + 33 +...+ N3](https://www.jdoodle.com/a/5FUb)
+12. [BT tìm số nguyên dương nhỏ nhất sao cho S = 1 + 2 +...+ n > 10000](https://www.jdoodle.com/a/5FUj)
+13. [BT hiển thị các ký tự in từ A đến Z](https://www.jdoodle.com/a/5FUs)
