@@ -18,4 +18,4 @@
 
 11. [Viết chương trình tính tổng S = 13 + 23 + 33 +...+ N3](https://www.jdoodle.com/embed/v0/5FUb)
 12. [BT tìm số nguyên dương nhỏ nhất sao cho S = 1 + 2 +...+ n > 10000](https://www.jdoodle.com/embed/v0/5FUj)
-13. [BT hiển thị các ký tự in từ A đến Z](https://www.jdoodle.com/embed/v0/5FUs)
+13. [BT hiển thị các ký tự in từ A đến Z](https://www.jdoodle.com/a/5FUs)
