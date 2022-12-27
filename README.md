@@ -20,3 +20,13 @@
 12. [BT tìm số nguyên dương nhỏ nhất sao cho S = 1 + 2 +...+ n > 10000](https://www.jdoodle.com/a/5FUj)
 13. [BT hiển thị các ký tự in từ A đến Z](https://www.jdoodle.com/a/5FUs)
 14. [BT Viết chương trình tính tổng các giá trị lẻ nguyên dương nhỏ hơn N](https://www.jdoodle.com/a/5G2z)
+
+
+
+
+
+
+
+
+[BT 26/12](https://www.jdoodle.com/a/5G2A)
+
